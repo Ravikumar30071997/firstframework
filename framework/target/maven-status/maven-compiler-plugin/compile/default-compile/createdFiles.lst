@@ -1,0 +1,6 @@
+utilities\Browser.class
+reportgeneration\Screenshots.class
+utilities\ReadFromExcel.class
+reportgeneration\GenerateExcelReport.class
+maven_testing_framework\framework\Main.class
+reportgeneration\GenarateHtmlReport.class

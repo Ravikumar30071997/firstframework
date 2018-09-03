@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55599" started-at="2018-08-28T18:54:53Z" finished-at="2018-08-28T18:55:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55599" started-at="2018-08-28T18:54:53Z" finished-at="2018-08-28T18:55:49Z">
+      <class name="maven_testing_framework.framework.Main">
+        <test-method status="PASS" signature="mainControll()[pri:0, instance:maven_testing_framework.framework.Main@48140564]" name="mainControll" duration-ms="55477" started-at="2018-08-28T18:54:53Z" finished-at="2018-08-28T18:55:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainControll -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:maven_testing_framework.framework.Main@48140564]" name="afterTest" is-config="true" duration-ms="100" started-at="2018-08-28T18:55:48Z" finished-at="2018-08-28T18:55:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- maven_testing_framework.framework.Main -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
